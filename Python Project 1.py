@@ -1,6 +1,6 @@
 # This tool is used to help with the calculation of how much a hotel cots
 
-# Ryan Nock
+# Your Name
 # Aug 28 2020
 
 name = input("What is your customers name?: ")
